@@ -2,3 +2,7 @@
 /DesignPattern/FactoryMethod/target
 /DesignPattern/FactoryMethod/*.classpath
 /DesignPattern/FactoryMethod/*.project
+/AbstractFactory/.settings
+/AbstractFactory/target
+/AbstractFactory/*.classpath
+/AbstractFactory/*.project
