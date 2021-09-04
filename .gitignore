@@ -6,3 +6,4 @@
 /AbstractFactory/target
 /AbstractFactory/*.classpath
 /AbstractFactory/*.project
+/Singleton/.settings
